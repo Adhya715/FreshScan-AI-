@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 from pathlib import Path
 import tempfile
@@ -49,5 +48,3 @@ if st.button("🔍 Predict"):
         st.progress(confidence, text=f"{confidence:.2%} confidence")
 
         st.write(f"Confidence: **{confidence:.2%}**")
-
->>>>>>>
