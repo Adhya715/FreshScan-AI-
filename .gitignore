@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .idea/
 __pycache__/
 *.pyc
 .env
 .DS_Store
+=======
+.venv/
+__pycache__/
+Fruit Freshness Dataset/
+.idea/
+>>>>>>> b691b143c65ce7a3c65f7c006142b96a3bf3d63b
