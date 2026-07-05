@@ -60,14 +60,22 @@ FreshScan-AI/
 
 ## Dataset
 
-The dataset contains images of:
+This project uses the **Fruit Freshness Dataset** from Kaggle.
 
-- Fresh Apples
-- Rotten Apples
-- Fresh Bananas
-- Rotten Bananas
-- Fresh Strawberries
-- Rotten Strawberries
+You can download it from:
+
+**Kaggle:** <https://www.kaggle.com/datasets/abdulrafeyyashir/fresh-vs-rotten-fruit-images?resource=download>
+
+After downloading, place the dataset in the following structure:
+
+```
+Fruit Freshness Dataset/
+└── data/
+    └── raw/
+        ├── Apple/
+        ├── Banana/
+        └── Strawberry/
+```
 
 Images are resized to **224 × 224** before training.
 
