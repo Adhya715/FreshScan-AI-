@@ -162,3 +162,4 @@ Confidence: 99.84%
 Engineering Student | AI & Machine Learning Enthusiast
 
 GitHub: https://github.com/Adhya715
+LinkedIn: https://www.linkedin.com/in/adhya-agrawal-039528380/
